@@ -1,0 +1,11 @@
+{
+  "name": "hayat-eye-center-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "nodemailer": "^6.9.9"
+  }
+}
